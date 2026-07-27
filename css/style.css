@@ -1,1 +1,43 @@
+#infovis{
+    margin:70px auto;
+    max-width:1000px;
+}
 
+.section-description{
+    color:#c9d1d9;
+    margin-bottom:35px;
+    line-height:1.7;
+}
+
+.project-card{
+    background:#161b22;
+    border:1px solid #30363d;
+    border-radius:12px;
+    padding:25px;
+    margin-bottom:30px;
+}
+
+.project-card h3{
+    color:#58a6ff;
+    margin-bottom:15px;
+}
+
+.project-card p{
+    color:#c9d1d9;
+    line-height:1.8;
+}
+
+.button{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 20px;
+    background:#238636;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    transition:.3s;
+}
+
+.button:hover{
+    background:#2ea043;
+}
