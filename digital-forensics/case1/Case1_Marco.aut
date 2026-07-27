@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2024/09/15 15:57:40 (EDT)</CreatedDate>
+  <ModifiedDate>2024/09/15 15:57:41 (EDT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.21.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.21.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>case1_marco_20240915_155740</Name>
+    <DisplayName>Case1_Marco</DisplayName>
+    <Number>001</Number>
+    <Examiner>Madison Sleppy</Examiner>
+    <ExaminerPhone>2157042811</ExaminerPhone>
+    <ExaminerEmail>tun75168@temple.edu</ExaminerEmail>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
